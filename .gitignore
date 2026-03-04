@@ -1,0 +1,19 @@
+# Large data files (download separately)
+*.json
+wago_csv/
+
+# Generated SQL output (use --regenerate to produce)
+sql_output/*.sql
+
+# Backups
+backups/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Text exports (dedup reference files)
+*.txt
