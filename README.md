@@ -1,5 +1,7 @@
 # wago-pipeline
 
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue) ![License: MIT](https://img.shields.io/github/license/VoxCore84/wago-pipeline) ![GitHub release](https://img.shields.io/github/v/release/VoxCore84/wago-pipeline)
+
 Data enrichment pipeline for [RoleplayCore](https://github.com/VoxCore84/RoleplayCore) (TrinityCore Midnight 12.x). Imports localized item names, quest chains, quest POI, quest objectives, and Wowhead-scraped data into the world/hotfixes databases.
 
 ## Data Sources
